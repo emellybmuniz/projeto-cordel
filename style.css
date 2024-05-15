@@ -48,7 +48,6 @@ header > p > a {
 #img1 {
     background-image: url(imagens/background001.jpg);
     background-position: center right;
-    background-repeat: no-repeat;
     background-size: cover;
     color: white;
     padding: 50px;
@@ -63,7 +62,6 @@ header > p > a {
 #img2 {
     background-image: url(imagens/background002.jpg);
     background-position: center right;
-    background-repeat: no-repeat;
     background-size: cover;
     color: white;
     padding: 50px;
