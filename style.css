@@ -57,6 +57,7 @@ header > p > a {
     text-align: justify;
     background-attachment: fixed; 
     text-shadow: 3px 2px 2px rgba(0, 0, 0, 0.23); 
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.433);
 }
 
 #img2 {
@@ -71,6 +72,7 @@ header > p > a {
     text-align: justify;  
     background-attachment: fixed;
     text-shadow: 3px 2px 2px rgba(0, 0, 0, 0.23);
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.433);
 }
 
 #img2 > p {
