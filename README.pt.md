@@ -10,7 +10,7 @@
 
 Este projeto é um site responsivo criado para exibir o poema "Cordel" de Milton Duarte. Foi desenvolvido como parte do módulo de HTML5 e CSS3 do curso do Cursoemvideo, com foco na criação de um efeito de rolagem parallax e no uso de fontes personalizadas para aprimorar a experiência visual.
 
-![Project Banner](imagens/project-banner.png)
+[![Project Banner](imagens/project-banner.png)](https://emellybmuniz.github.io/projeto-cordel/)
 
 ---
 ### 📋 Índice
