@@ -62,7 +62,15 @@ $ git clone https://github.com/emellybmuniz/projeto-cordel.git
 # 2. Navigate to the project directory
 $ cd projeto-cordel
 # 3. Open in your browser
-$ open index.html  # Or double-click the file
+
+# On Linux
+$ xdg-open index.html
+
+# On macOS
+$ open index.html 
+
+# On Windows
+$ start index.html 
 ```
 
 

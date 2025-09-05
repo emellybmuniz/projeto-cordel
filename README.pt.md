@@ -10,7 +10,7 @@
 
 Este projeto é um site responsivo criado para exibir o poema "Cordel" de Milton Duarte. Foi desenvolvido como parte do módulo de HTML5 e CSS3 do curso do Cursoemvideo, com foco na criação de um efeito de rolagem parallax e no uso de fontes personalizadas para aprimorar a experiência visual.
 
-![Project Banner](imagens/project-banner.png)
+[![Project Banner](imagens/project-banner.png)](https://emellybmuniz.github.io/projeto-cordel/)
 
 ---
 ### 📋 Índice
@@ -53,10 +53,20 @@ Basta abrir o site no seu navegador preferido e começar a rolar a página para 
 ```bash
 # 1. Clone este repositório
 $ git clone https://github.com/emellybmuniz/projeto-cordel.git
+
 # 2. Acesse o diretório do projeto
 $ cd projeto-cordel
-# 3. Abra no seu navegador
-$ open index.html  # Ou clique duas vezes no arquivo
+
+# 3. Abra no seu navegador 
+
+# No Linux
+$ xdg-open index.html
+
+# No macOS
+$ open index.html 
+
+# No Windows
+$ start index.html 
 ```
 
 ## 🤝 Contribuição
