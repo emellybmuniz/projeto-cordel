@@ -18,7 +18,7 @@ This project is a responsive website created to display the Cordel poem by Milto
 ### 📋 Index
 
 - [Project Overview](#-project-overview)
-- [Highlights & Features](#-highlights-&-features)
+- [Highlights & Features](#-highlights--features)
 - [Technologies Used](#-technologies-used)
 - [Prerequisites](#-prerequisites)
 - [Installation](#-installation)
