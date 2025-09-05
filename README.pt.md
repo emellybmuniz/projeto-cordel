@@ -16,7 +16,7 @@ Este projeto é um site responsivo criado para exibir o poema "Cordel" de Milton
 ### 📋 Índice
 
 - [Visão Geral do Projeto](#-vis%C3%A3o-geral-do-projeto)
-- [Destaques e Funcionalidades](#-destaques-e-funcionalidades)
+- [Destaques e Funcionalidades](#-destaques--funcionalidades)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Pré-requisitos](#-pr%C3%A9-requisitos)
 - [Instalação](#-instala%C3%A7%C3%A3o)

@@ -12,13 +12,13 @@
 
 This project is a responsive website created to display the Cordel poem by Milton Duarte. It was developed as part of the HTML5 and CSS3 module from the Cursoemvideo course, focusing on creating a parallax scrolling effect and using custom fonts to enhance the visual experience.
 
-![Project Banner](imagens/project-banner.png)
+[![Project Banner](imagens/project-banner.png)](https://emellybmuniz.github.io/projeto-cordel/)
 
 ---
 ### 📋 Index
 
 - [Project Overview](#-project-overview)
-- [Highlights & Features](#-highlights-&-features)
+- [Highlights & Features](#-highlights--features)
 - [Technologies Used](#-technologies-used)
 - [Prerequisites](#-prerequisites)
 - [Installation](#-installation)
