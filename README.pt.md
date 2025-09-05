@@ -16,7 +16,7 @@ Este projeto é um site responsivo criado para exibir o poema "Cordel" de Milton
 ### 📋 Índice
 
 - [Visão Geral do Projeto](#-vis%C3%A3o-geral-do-projeto)
-- [Destaques e Funcionalidades](#-destaques--funcionalidades)
+- [Destaques e Funcionalidades](#-destaques-e-funcionalidades)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Pré-requisitos](#-pr%C3%A9-requisitos)
 - [Instalação](#-instala%C3%A7%C3%A3o)
@@ -59,13 +59,13 @@ $ cd projeto-cordel
 
 # 3. Abra no seu navegador 
 
-# No Linux
+# Linux
 $ xdg-open index.html
 
-# No macOS
+# macOS
 $ open index.html 
 
-# No Windows
+# Windows
 $ start index.html 
 ```
 

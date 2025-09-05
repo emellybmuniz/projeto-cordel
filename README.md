@@ -63,13 +63,13 @@ $ git clone https://github.com/emellybmuniz/projeto-cordel.git
 $ cd projeto-cordel
 # 3. Open in your browser
 
-# On Linux
+# Linux
 $ xdg-open index.html
 
-# On macOS
+# macOS
 $ open index.html 
 
-# On Windows
+# Windows
 $ start index.html 
 ```
 
